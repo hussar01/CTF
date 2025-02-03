@@ -1,2 +1,2 @@
 # CTF
-This repo is related to all things related to IT Sec
+This repo is dedicated to all things related to IT Sec
